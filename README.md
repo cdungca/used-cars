@@ -1,5 +1,9 @@
 # used-cars
 
+A study on what features affects the price of a used car. This is part of the course work for [UC Berkeley Professional Certificate in Machine Learning and Artificial Intelligence](https://exec-ed.berkeley.edu/professional-certificate-in-machine-learning-and-artificial-intelligence/). 
+
+You can follow the detailed analysis done in the [Jupyter notebook](https://github.com/cdungca/used-cars/blob/main/prompt_II.ipynb).
+
 ## Objective
 
 The main objective of this study is to identify features which are considered valuable by used car buyers. What are these features that can drive the price higher? And on the other hand, what are the features on lower priced cars. 
